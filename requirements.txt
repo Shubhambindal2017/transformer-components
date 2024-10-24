@@ -1,0 +1,3 @@
+## Python - 3.10.2
+## Bit lower versions of torch should also work
+torch==2.2.1
